@@ -10,7 +10,7 @@ I’m currently learning Nim and Flutter thanks to the projects mentioned above,
 
 ### Contacting me 📫
 
-You can reach me by email at [q.barbarat+github[at]gmail[dot]com](mailto:q.barbarat+github@gmail.com), or directly via an issue on one of my projects.
+You can reach me by email at [q.barbarat+github[at]gmail[dot]com](mailto:q.barbarat+github@gmail.com), or directly via an issue on one of my projects. If you ever want to know more about what I'm doing you can always read up on it on my [website](https://sunbro.dev).
 
 ## Some stats 📈
 
