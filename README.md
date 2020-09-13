@@ -2,11 +2,11 @@
 
 ### Current Projects 🔭
 
-I’m currently working on a couple of personal project. The first one is my website [sunbro.dev](https://sunbro.dev) based on Hugo, and the second one is Chipmunk, a CHIP-8 emulator written in Nim. Most of my projects are over on GitLab, but I mirror the interesting ones here. My current coursework includes a full-stack web application written in React/Redux & Django using Unity to promote learning and a mobile app written in Flutter to make user interfaces more intuitive.
+I’m currently working on a couple of personal project. The first one is my website [sunbro.dev](https://sunbro.dev) based on **Hugo**, and the second one is Chipmunk, a CHIP-8 emulator written in **Nim**. Most of my projects are over on GitLab, but I mirror the interesting ones here. My current coursework includes a full-stack web application written in **React**/**Redux** & **Django** using **Unity** to promote learning and a mobile app written in **Flutter** to make user interfaces more intuitive.
 
 ### Currently Learning 🌱
 
-I’m currently learning Nim and Flutter thanks to the projects mentioned above, but I'm always looking ahead and plan to learn Gameboy assembly and sharpen up my C++ and C# skills. I try to give back to the FOSS community and contribute whenever I can to projects I use.
+I’m currently learning **Nim** and **Flutter** thanks to the projects mentioned above, but I'm always looking ahead and plan to learn **Gameboy assembly** and sharpen up my **C++** and **C#** skills. I try to give back to the FOSS community and contribute whenever I can to projects I use.
 
 ### Contacting me 📫
 
